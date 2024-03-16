@@ -14,7 +14,7 @@ import lombok.ToString;
 
 public class ContatoPostDto {
 
-	private Integer idContato;
+	
 	private String nome;
 	private String email;
 	private String telefone;

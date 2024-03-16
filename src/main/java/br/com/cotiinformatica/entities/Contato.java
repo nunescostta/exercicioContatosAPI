@@ -33,7 +33,7 @@ public class Contato {
 	@Column(name = "email", length = 50, nullable = false)
 	private String email;
 
-	@Column(name = "telefone", length = 15, nullable = false)
+	@Column(name = "telefone", length = 20, nullable = false)
 	private String telefone;
 
 }
